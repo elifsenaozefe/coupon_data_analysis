@@ -13,15 +13,15 @@ Since toCoupon_GEQ5min columns has same value for all rows, I've dropped the col
 
 Insights on Data
 --
-56% of the drivers accept the coupon.
-__Most of the coupons are Coffee House coupons.
-__Generally, temperature is high.
+56% of the drivers accept the coupon. </br>
+Most of the coupons are Coffee House coupons. </br>
+Generally, temperature is high.
 
 Additional analysis done and, also, insights noted on the code.
 
 
 Summary
 --
-For bar coupons, drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry have the highest chance to accept bar copuns among all groups.
-_For coffee house coupons, drivers who is student and have passanger (but not kids) with them have really high chance to accept coffee house coupons.
-_For restaurant coupons, younger drivers wwith income less than 50K have more chance to accept restaurant coupons.
+For bar coupons, drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry have the highest chance to accept bar copuns among all groups. </br>
+For coffee house coupons, drivers who is student and have passanger (but not kids) with them have really high chance to accept coffee house coupons. </br>
+For restaurant coupons, younger drivers wwith income less than 50K have more chance to accept restaurant coupons.
