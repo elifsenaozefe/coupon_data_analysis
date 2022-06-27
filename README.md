@@ -5,17 +5,17 @@ June 2022 | Elif Sena Özefe
 
 Descriptive Analysis
 --
-Data consists of 12684 rows and 26 columns.
-_Car column has filled for 108 rows, others missing. Hence, I've dropped the column.
-_Since toCoupon_GEQ5min columns has same value for all rows, I've dropped the column.
-_5 other columns have missing values, I've filled them with "never". This decision is based on context of the data.
+Data consists of 12684 rows and 26 columns. </br>
+Car column has filled for 108 rows, others missing. Hence, I've dropped the column. </br>
+Since toCoupon_GEQ5min columns has same value for all rows, I've dropped the column. </br>
+5 other columns have missing values, I've filled them with "never". This decision is based on context of the data.
 
 
 Insights on Data
 --
 56% of the drivers accept the coupon.
-_Most of the coupons are Coffee House coupons.
-_Generally, temperature is high.
+__Most of the coupons are Coffee House coupons.
+__Generally, temperature is high.
 
 Additional analysis done and, also, insights noted on the code.
 
